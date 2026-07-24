@@ -62,3 +62,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 tas-mk.toboads.com
 0.0.0.0	toboads.com
 0.0.0.0 2link.in
+0.0.0.0 vestimak.mk
+0.0.0.0 vestmak.mk
+0.0.0.0 24mk.mk
+0.0.0.0 mk24.mk
+0.0.0.0 utre.mk
+0.0.0.0 vestimak.com
+0.0.0.0 foundationmacedonia.com
